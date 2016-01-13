@@ -1,3 +1,3 @@
-web: npm start
-rails: rails s -p $PORT
+node: npm start
+web: rails s -p $PORT
 worker: bash
